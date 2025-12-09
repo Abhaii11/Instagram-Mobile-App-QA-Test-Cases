@@ -10,7 +10,7 @@ This repository showcases my ability to design structured, professional QA test 
 
 | File | Description |
 | :--- | :--- |
-| **Instagram_50_Detailed_TestCases.xlsx** | Contains 50 realistic, detailed test cases covering Login, Profile, Stories, Search, Navigation & Responsiveness. |
+| **Instagram_TestCases.xlsx** | Contains 50 realistic, detailed test cases covering Login, Profile, Stories, Search, Navigation & Responsiveness. |
 | **Test Case Template** | Base template used for writing test cases. |
 
 ---
@@ -69,7 +69,7 @@ This project is intended for recruiters, QA leads, and anyone evaluating my test
 
 ## 📘 How to Use This Repo
 
-1.  **Download** the Excel file (`Instagram_50_Detailed_TestCases.xlsx`).
+1.  **Download** the Excel file (`Instagram_TestCases.xlsx`).
 2.  **Review** the test cases module-wise to understand the coverage.
 3.  **Execute** the cases on any live Instagram build (iOS or Android).
 4.  **Fill** the *Actual Result* & *Status* columns based on your execution.
